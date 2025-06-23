@@ -69,4 +69,4 @@ For analysts studying online fundraising trends.
 
 For stakeholders monitoring platform performance.
 
-preview : ![Dashboard Preview]()
+preview : ![Dashboard Preview](https://github.com/sadik4li/Crowdfunding-Dashboard-Kickstarter-Analysis-/blob/main/Screenshot%202025-06-22%20134500.png)
