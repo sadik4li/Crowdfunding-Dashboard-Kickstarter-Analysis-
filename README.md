@@ -65,6 +65,8 @@ Support data-driven decisions for creators, marketers, and analysts.
 
 For creators planning crowdfunding campaigns.
 
+preview : ![Dashboard Preview]()
+
 
 For analysts studying online fundraising trends.
 
